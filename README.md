@@ -1,4 +1,4 @@
-🚀 Space-Legacy
+#🚀 Space-Legacy
 
 Space-Legacy is a fast-paced, arcade-style space shoot ’em up built entirely in JavaScript, designed around a smart, addictive game-loop algorithm that dynamically balances challenge, reward, and player engagement.
 
