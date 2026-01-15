@@ -3,7 +3,7 @@
 ## Space Legacy is a fast-paced, arcade-style space shoot ’em up built in JavaScript, designed around a smart, addictive game-loop algorithm that dynamically balances challenge, reward, and player engagement.
 
 ⚡ Simple to play. Hard to master. Impossible to quit.
-ou control a lone space fighter in hostile territory. Enemies spawn relentlessly, difficulty scales in real time, and survival depends on reaction speed, positioning, and decision-making.
+You control a lone space fighter in hostile territory. Enemies spawn relentlessly, difficulty scales in real time, and survival depends on reaction speed, positioning, and decision-making.
 
 ## Core mechanics:
 Continuous enemy waves
